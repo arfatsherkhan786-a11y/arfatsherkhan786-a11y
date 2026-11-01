@@ -36,7 +36,7 @@
 ## 🤝 Connect With Me
 - GitHub: [@arfatsherkhan786-a11y](https://github.com/arfatsherkhan786-a11y)
 - Email: arfatshakil786@gmail.com
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arfat-sherkhan-a2b7ba294/)
 ---
 ⭐ Thanks for visiting my GitHub profile!
 ## 📊 GitHub Statistics
