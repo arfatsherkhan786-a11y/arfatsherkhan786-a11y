@@ -1,3 +1,4 @@
+![GitHub Profile Banner](profile-banner.png)
 # Hi, I'm Arfat Shakil Sherkhan 👋
 
 🎓 B.Tech Student in Artificial Intelligence & Machine Learning  
