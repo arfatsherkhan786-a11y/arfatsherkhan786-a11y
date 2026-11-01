@@ -38,3 +38,12 @@
 
 ---
 ⭐ Thanks for visiting my GitHub profile!
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arfatsherkhan786-a11y&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arfatsherkhan786-a11y&layout=compact&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arfatsherkhan786-a11y&theme=tokyonight&no-frame=true&row=1&column=6)
